@@ -1,9 +1,44 @@
+.flagContainer{
+  height: 20vmin;
+  width: 36vmin;
+  background-color: rgb(248, 191, 191);
+  border: 1px solid rgb(165, 94, 94);
+}
+/* Indonesia */
+#indonesia .section{
+  height: 50%;
+}
+#indonesia {
+  background-color: white;
+}
+.redBackground{
+  background-color: red;
+  height: 50%;
+}
+
+
+
+
+
 /* Indonesia */
 
 /* Colombia */
 
 /* Ireland */
+#ireland{
+    display: flex;
+}
+#ireland >.thirdFlagSection{
+  background-color: white;
+  width: 100%;
 
+}
+#ireland>.thirdFlagSection:nth-child(1){
+  background-color: green;
+}
+#ireland>.thirdFlagSection:nth-child(3){
+  background-color: orange;
+}
 /* France */
 
 /* Benin */
