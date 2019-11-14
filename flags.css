@@ -23,6 +23,26 @@
 /* Indonesia */
 
 /* Colombia */
+#columbia{
+
+}
+.yellowBack{
+  height: 50%;
+  background-color: yellow;
+}
+
+.halfRect{
+  height: 50%;
+}
+.bluetwentyfive{
+  height: 50%;
+  background-color: blue;
+}
+
+.redtwentyfive{
+    height: 50%;
+  background-color: red;
+}
 
 /* Ireland */
 #ireland{
@@ -40,9 +60,47 @@
   background-color: orange;
 }
 /* France */
+#france{
+  display: flex;
+}
+
+#france>.thirdFlagSection{
+  background-color: white;
+  width: 100%;
+}
+#france>.thirdFlagSection:nth-child(1){
+  background-color:blue;
+}
+#france>.thirdFlagSection:nth-child(3){
+  background-color:red;
+}
+
 
 /* Benin */
+#benin{
 
+}
+.greendiv{
+  float: left;
+  height: 100%;
+  width: 35%;
+  background-color: green;
+}
+
+.yellowRedDiv{
+  float: right;
+  width: 65%;
+  height: 100%;
+}
+
+.beninyellow{
+  height: 50%;
+  background-color: yellow;
+}
+.beninred{
+  height: 50%;
+  background-color: red;
+}
 /* Sweden */
 
 /* Switzerland */
