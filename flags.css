@@ -102,8 +102,57 @@
   background-color: red;
 }
 /* Sweden */
-
+#sweden{
+  background-color: red;
+  height: 25vmin;
+  width: 25vmin;
+}
+.cross{
+  position: absolute;
+  padding-top: 10vmin;
+  padding-left: 5vmin
+}
+.cross1{
+  position: absolute;
+  background-color: white;
+  height: 5vmin;
+  width: 15vmin;
+  top: 110%;
+}
+.cross2{
+  left: 10vmin;
+  top: 65%;
+  position: absolute;
+  background-color: white;
+  height: 15vmin;
+  width: 5vmin;
+}
 /* Switzerland */
+#switzerland{
+  background-color: red;
+}
+.whiteSqaure{
+  position: relative;
+  background-color: white;
+  width: 15vmin;
+  height: 10vmin;
+}
+.redCross{
+  left: 6vmin;
+  top: 8%;
+  position: absolute;
+  background-color: red;
+  height: 8vmin;
+  width: 3vmin;
+}
+.redCross2{
+  position: absolute;
+  background-color: red;
+  height: 3vmin;
+  width: 8vmin;
+  top: 35%;
+  left: 23%;
+}
 
 /* Tonga */
 
