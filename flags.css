@@ -1,23 +1,220 @@
+.flagContainer{
+  height: 20vmin;
+  width: 36vmin;
+  background-color: rgb(248, 191, 191);
+  border: 1px solid rgb(165, 94, 94);
+}
+/* Indonesia */
+#indonesia .section{
+  height: 50%;
+}
+#indonesia {
+  background-color: white;
+}
+.redBackground{
+  background-color: red;
+  height: 50%;
+}
+
+
+
+
+
 /* Indonesia */
 
 /* Colombia */
+#columbia{
+
+}
+.yellowBack{
+  height: 50%;
+  background-color: yellow;
+}
+
+.halfRect{
+  height: 50%;
+}
+.bluetwentyfive{
+  height: 50%;
+  background-color: blue;
+}
+
+.redtwentyfive{
+    height: 50%;
+  background-color: red;
+}
 
 /* Ireland */
+#ireland{
+    display: flex;
+}
+#ireland >.thirdFlagSection{
+  background-color: white;
+  width: 100%;
 
+}
+#ireland>.thirdFlagSection:nth-child(1){
+  background-color: green;
+}
+#ireland>.thirdFlagSection:nth-child(3){
+  background-color: orange;
+}
 /* France */
+#france{
+  display: flex;
+}
+
+#france>.thirdFlagSection{
+  background-color: white;
+  width: 100%;
+}
+#france>.thirdFlagSection:nth-child(1){
+  background-color:blue;
+}
+#france>.thirdFlagSection:nth-child(3){
+  background-color:red;
+}
+
 
 /* Benin */
+#benin{
 
+}
+.greendiv{
+  float: left;
+  height: 100%;
+  width: 35%;
+  background-color: green;
+}
+
+.yellowRedDiv{
+  float: right;
+  width: 65%;
+  height: 100%;
+}
+
+.beninyellow{
+  height: 50%;
+  background-color: yellow;
+}
+.beninred{
+  height: 50%;
+  background-color: red;
+}
 /* Sweden */
-
+#sweden{
+  background-color: red;
+  height: 25vmin;
+  width: 25vmin;
+}
+.cross{
+  position: absolute;
+  padding-top: 10vmin;
+  padding-left: 5vmin
+}
+.cross1{
+  position: absolute;
+  background-color: white;
+  height: 5vmin;
+  width: 15vmin;
+  top: 110%;
+}
+.cross2{
+  left: 10vmin;
+  top: 65%;
+  position: absolute;
+  background-color: white;
+  height: 15vmin;
+  width: 5vmin;
+}
 /* Switzerland */
+#switzerland{
+  background-color: red;
+}
+.whiteSqaure{
+  position: relative;
+  background-color: white;
+  width: 15vmin;
+  height: 10vmin;
+}
+.redCross{
+  left: 6vmin;
+  top: 8%;
+  position: absolute;
+  background-color: red;
+  height: 8vmin;
+  width: 3vmin;
+}
+.redCross2{
+  position: absolute;
+  background-color: red;
+  height: 3vmin;
+  width: 8vmin;
+  top: 35%;
+  left: 23%;
+}
 
 /* Tonga */
+#tonga{
+  background-color: blue;
+  position: relative;
+}
+.yellow1{
+  position: absolute;
+  background: yellow;
+  left: 28%;
+  width: 12%;
+  height: 100%;
+}
+.yellow2{
+  position: absolute;
+  background: yellow;
+  top: 40%;
+  width: 100%;
+  height: 20%;
+}
+
 
 /* Japan */
+#japan{
+  background-color: white;
+  position: relative;
 
+}
+.circle{
+  position: relative;
+  width: 35%;
+  height: 65%;
+  transform: translate(-50%, -50%);
+  background-color: red;
+  border-radius: 50%;
+  margin: auto;
+  left: 15%;
+  top: 50%
+}
 /* Canada */
-
+#canada{
+  background-color: white;
+  position: relative;
+}
+.leaf{
+position: absolute;
+height: 100px;
+z-index: 1;
+ transform:rotateZ(27deg);
+ left: 28%;
+ top: 15%;
+}
+.red1{
+display: inline-block;
+position: relative;
+background-color: red;
+height: 100%;
+width: 25%
+}
+.red2{
+  left: 48%;
+}
 /* Norway */
 
 /* Greece */
