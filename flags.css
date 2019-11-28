@@ -330,7 +330,36 @@ top: 6vh;
   z-index: 1;
 }
 /* Turkey */
-
+#turkey{
+  background-color: red;
+}
+.whiteCircle{
+position: relative;
+background-color: white;
+border-radius: 50%;
+height: 11vw;
+width: 11vw;
+left: 5vw;
+top: 3vw
+}
+.redCover{
+position: absolute;
+background-color: red;
+border-radius: 50%;
+height: 9vw;
+width: 9vw;
+left: 9vw;
+top: 23.25vw
+}
+.start3{
+  position: absolute;
+  color:white;
+  font-size: 8vmin;
+  z-index: 2;
+  top: 22.5vw;
+  left: 16vw;
+   transform:rotateZ(55deg);
+}
 /* China */
 
 /* Cuba */
