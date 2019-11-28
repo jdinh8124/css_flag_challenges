@@ -304,7 +304,31 @@ top: 6vh;
   bottom: 4vh;
 }
 /* Chile */
+#chile{
+  background-color: red;
+}
+.star2{
+  position: absolute;
+  color:white;
+  font-size: 8vmin;
+  z-index: 2;
+  left: 1.3vw;
+  bottom: 89%;
 
+}
+.halfFlag{
+  height: 50%;
+  width: 100%;
+  background-color: white;
+}
+.blueSmallSquare{
+  display: inline-block;
+  position: relative;
+  background-color: blue;
+  width:30%;
+  height: 102%;
+  z-index: 1;
+}
 /* Turkey */
 
 /* China */
