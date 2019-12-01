@@ -295,25 +295,26 @@ top: 6vh;
 /* Somalia */
 #somalia{
   background-color:rgb(25, 105, 210);
+  position: relative;
 }
 .star{
-  position: relative;
+  position: absolute;
   color:white;
-  font-size: 8rem;
-  left: 6vw;
-  bottom: 4vh;
+  font-size: 6vw;
+  left: 35%;
+
 }
 /* Chile */
 #chile{
   background-color: red;
 }
 .star2{
-  position: relative;
+  position: absolute;
   color:white;
   font-size: 8vmin;
   z-index: 2;
   left: 1.3vw;
-  bottom: 89%;
+  bottom: 69%;
 
 }
 .halfFlag{
@@ -326,7 +327,7 @@ top: 6vh;
   position: relative;
   background-color: blue;
   width:30%;
-  height: 102%;
+  height: 100%;
   z-index: 1;
 }
 /* Turkey */
@@ -334,22 +335,22 @@ top: 6vh;
   background-color: red;
 }
 .whiteCircle{
-position: relative;
+position: absolute;
 background-color: white;
 border-radius: 50%;
-height: 11vw;
-width: 11vw;
+height: 6vw;
+width: 6vw;
 left: 5vw;
-top: 1.5vw
+top: 45%;
 }
 .redCover{
-position: relative;
+position: absolute;
 background-color: red;
 border-radius: 50%;
-height: 9vw;
-width: 9vw;
-left: 7.5vw;
-bottom: 8.3vw
+height: 5vw;
+width: 5vw;
+left: 7vw;
+bottom: 43.5%
 ;
 }
 .start3{
@@ -357,8 +358,8 @@ bottom: 8.3vw
   color:white;
   font-size: 8vmin;
   z-index: 2;
-  bottom: 8.5vw;
-  left: 10vw;
+  left: 6vw;
+  top: 83%;
    transform:rotateZ(55deg);
 }
 /* China */
