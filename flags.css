@@ -199,11 +199,11 @@
 }
 .leaf{
 position: absolute;
-height: 14vh;
+height: 12vh;
 z-index: 1;
  transform:rotateZ(27deg);
- left: 5vw;
- top: 3vh;
+ left: 5.5vw;
+ top: 2.75vw;
 }
 .red1{
 display: inline-block;
@@ -308,7 +308,7 @@ top: 6vh;
   background-color: red;
 }
 .star2{
-  position: absolute;
+  position: relative;
   color:white;
   font-size: 8vmin;
   z-index: 2;
@@ -340,24 +340,25 @@ border-radius: 50%;
 height: 11vw;
 width: 11vw;
 left: 5vw;
-top: 3vw
+top: 1.5vw
 }
 .redCover{
-position: absolute;
+position: relative;
 background-color: red;
 border-radius: 50%;
 height: 9vw;
 width: 9vw;
-left: 9vw;
-top: 23.25vw
+left: 7.5vw;
+bottom: 8.3vw
+;
 }
 .start3{
-  position: absolute;
+  position: relative;
   color:white;
   font-size: 8vmin;
   z-index: 2;
-  top: 22.5vw;
-  left: 16vw;
+  bottom: 8.5vw;
+  left: 10vw;
    transform:rotateZ(55deg);
 }
 /* China */
