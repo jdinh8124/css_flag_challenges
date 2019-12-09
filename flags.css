@@ -363,7 +363,34 @@ bottom: 43.5%
    transform:rotateZ(55deg);
 }
 /* China */
-
+#china{
+  background-color: red;
+}
+.giantStar{
+  position: relative;
+  color: yellow;
+  font-size: 120px;
+  bottom: 25px;
+  left: 30px;
+}
+.yellow{
+position: relative;
+background-color: green;
+width: 4vw;
+height: 1vw;
+bottom: 100px;
+left:80px;
+  transform: rotate(45deg);
+transform-origin: 10% 50%;
+visibility: 0;
+}
+.smallYellow{
+  position: relative;
+color: yellow;
+font-size: 40px;
+bottom: 100%;
+left: 90%;
+}
 /* Cuba */
 
 /* Western Sahara */
