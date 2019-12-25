@@ -361,6 +361,7 @@ bottom: 43.5%
   left: 6vw;
   top: 83%;
    transform:rotateZ(55deg);
+
 }
 /* China */
 #china{
@@ -403,7 +404,9 @@ bottom: 60%;
   bottom: 80%;
 }
 /* Cuba */
-
+#cuba{
+  background: white;
+}
 /* Western Sahara */
 
 /* Kuwait */
