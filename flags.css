@@ -425,9 +425,9 @@ background-color: red;
 top: 39.6vw;
 color: white;
 font-size: 5vw;
-transform: skew(15deg, 15deg);
+/* transform: skew(15deg, 15deg);
 transform: rotate(90deg);
-transform: translate(-45%);
+transform: translate(-45%); */
 }
 /* Western Sahara */
 
